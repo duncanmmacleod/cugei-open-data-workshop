@@ -1,7 +1,7 @@
 
-===============================
-Colliding stars and black holes
-===============================
+==================================================
+Colliding stars and black holes Open Data Workshop
+==================================================
 
 .. sectionauthor:: Duncan Macleod <duncan.macleod@ligo.org>
 
