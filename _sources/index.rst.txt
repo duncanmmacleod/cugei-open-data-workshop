@@ -42,3 +42,21 @@ However, if you haven't already set things up, I recommend the easiest solution:
 #. open one of the notebooks from your own account,
 
    .. image:: azure3.png
+
+---------
+Notebooks
+---------
+
+The schedule allows for 2 one-hour sessions, which is not enough to visit each
+of the notebooks from the original workshop in detail, so I suggest the
+following subset of the material:
+
+#. ``gwpy/0 - GWOpenSci.ipynb``
+
+#. ``gwpy/2b - Signal processing with GWpy.ipynb``
+
+#. ``pycbc/1_CatalogData.ipynb``
+
+#. ``pycbc/3_WaveformMatchedFilter.ipynb``
+
+#. ``parameter_estimation/Calculating a Posterior Probability Density Function.ipynb``
