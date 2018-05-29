@@ -1,0 +1,44 @@
+
+===============================
+Colliding stars and black holes
+===============================
+
+.. sectionauthor:: Duncan Macleod <duncan.macleod@ligo.org>
+
+This page serves as a cover page for the Open Data Workshop, presented as part
+of the Colliding stars and black holes event at Cardiff University.
+
+------------
+Introduction
+------------
+
+This workshop extends the extensive material prepared for the
+`LIGO Open Data Workshop <https://losc.ligo.org/s/workshop1/course.html>`__,
+held at the California Institute of Technology.
+
+All of the material for that workshop is freely available under the
+`MIT License <https://choosealicense.com/licenses/mit/>`__.
+
+--------------
+Software setup
+--------------
+
+There are 4 options for getting access to the software described on the
+`Setup page <https://github.com/gw-odw/odw-2018/tree/master/setup/README.md>`__.
+However, if you haven't already set things up, I recommend the easiest solution:
+**use Microsoft Azure**:
+
+#. go to https://notebooks.azure.com/losc/libraries/odw-2018,
+   **if you don't have an account, you will need to create one**,
+
+#. click the *Clone* button to create a copy of the notebooks on your account:
+
+   .. image:: azure.png
+
+#. click on *odw-2018* to open the folder containing the materials
+
+   .. image:: azure2.png
+
+#. open one of the notebooks from your own account,
+
+   .. image:: azure3.png
