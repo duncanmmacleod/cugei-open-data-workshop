@@ -53,6 +53,8 @@ following subset of the material:
 
 #. ``gwpy/0 - GWOpenSci.ipynb``
 
+#. ``gwpy/2a - Signal processing with GWpy.ipynb``
+
 #. ``gwpy/2b - Signal processing with GWpy.ipynb``
 
 #. ``pycbc/1_CatalogData.ipynb``
